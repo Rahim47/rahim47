@@ -14,7 +14,7 @@ Skills:
 - 🇹🇷 I live in Türkiye.
 - 🗣️ I speak fluent English, fluent French, fluent Arabic, fluent Turkish and I am native Amazigh.
 
-[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/annaleushchenko/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/aissa-sekkouti/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub](images/github.svg)](https://github.com/Rahim47)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Instagram](images/instagram.svg)](https://www.instagram.com/candidchronicletales/)&nbsp;&nbsp;&nbsp;&nbsp;
 
