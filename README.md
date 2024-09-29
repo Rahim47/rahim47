@@ -5,6 +5,7 @@
 Skills:
 
 - Flutter & Dart (Proficient).
+- 🦀 Rust Enthusiast.
 - 😍 I am passionate about what I do, and programming is my major hobby.
 - ✨ UI/UX Design (Mobile Responsive).
 - 🚦 Development Patterns (MVC, MVP, MVVM, DDD).
