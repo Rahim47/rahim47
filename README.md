@@ -19,6 +19,8 @@ Contact:
 
 [![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/aissa-sekkouti/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub](images/github.svg)](https://github.com/Rahim47)&nbsp;&nbsp;&nbsp;&nbsp;
+[![GDE](images/gde.svg)](https://developers.google.com/profile/u/103464043409234277670)&nbsp;&nbsp;&nbsp;&nbsp;
+
 <!-- [![Instagram](images/instagram.svg)](https://www.instagram.com/candidchronicletales/)&nbsp;&nbsp;&nbsp;&nbsp; -->
 
 
