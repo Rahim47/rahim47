@@ -15,6 +15,8 @@ Skills:
 - 🇹🇷 I live in Türkiye.
 - 🗣️ I speak fluent English, fluent French, fluent Arabic, fluent Turkish and I am native Amazigh.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brockmekonnen&show_icons=true&locale=en&layout=compact" alt="brockmekonnen" /></p>
+
 Contact:
 
 [![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/aissa-sekkouti/)&nbsp;&nbsp;&nbsp;&nbsp;
