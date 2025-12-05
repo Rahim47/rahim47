@@ -3,7 +3,7 @@
 **Flutter Enthusiast | Crafting Beautiful & Functional Apps | Passionate Senior Flutter developer with 5+ years of experience building cross-platform mobile applications. Adept at UI/UX design principles and mobile development best practices to deliver exceptional user experiences.**
 
 Skills:
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahim47&show_icons=true&locale=en&layout=compact" alt="rahim47" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahim47&show_icons=true&locale=en&layout=compact" alt="rahim47" /></p>
 
 - Flutter & Dart (Proficient).
 - 🦀 Rust Enthusiast.
