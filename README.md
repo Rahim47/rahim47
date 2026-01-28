@@ -25,4 +25,4 @@ Contact:
 <!-- [![Instagram](images/instagram.svg)](https://www.instagram.com/candidchronicletales/)&nbsp;&nbsp;&nbsp;&nbsp; -->
 
 
-[![Stand With Palestine](images/free_palestine.jpeg)](https://palestinecampaign.org)
+<!-- [![Stand With Palestine](images/free_palestine.jpeg)](https://palestinecampaign.org)-->
