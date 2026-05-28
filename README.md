@@ -16,8 +16,7 @@ Skills:
 - 🗣️ I speak fluent English, fluent French, fluent Arabic, fluent Turkish and I am native Amazigh.
 
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahim47&show_icons=true&locale=en&layout=compact" alt="rahim47" /></p> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahim47&show_icons=true)
+<p><img align="center" src="https://github-stats-extended.vercel.app/api?username=rahim47&show_icons=true&locale=en&layout=compact" alt="rahim47" /></p>
 
 Contact:
 
