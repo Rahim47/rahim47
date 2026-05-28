@@ -16,7 +16,7 @@ Skills:
 - 🗣️ I speak fluent English, fluent French, fluent Arabic, fluent Turkish and I am native Amazigh.
 
 
-<p><img align="center" src="https://github-stats-extended.vercel.app/api?username=rahim47&show_icons=true&locale=en&layout=compact" alt="rahim47" /></p>
+<p><img align="center" src="https://github-stats-extended.vercel.app/api?username=rahim47&locale=en&layout=compact&show_icons=true&theme=radical" alt="rahim47" /></p>
 
 Contact:
 
